@@ -83,8 +83,6 @@ Qskill_internship_tasks/
 └── requirements.txt
 ```
 
-> The exact contents of the project directory may vary depending on the task implementation.
-
 ---
 
 ## 🔄 Machine Learning Workflow
@@ -177,17 +175,6 @@ The projects also provided hands-on experience working with the Python data scie
 
 ---
 
-## 👩‍💻 Author
-
-**Teesha Jindal**
-
-B.Tech Computer Science & Engineering  
-Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala
-
-- GitHub: https://github.com/aeldrift
-- LinkedIn: https://linkedin.com/in/teesha-jindal
-
----
 
 ## 📜 Internship
 
